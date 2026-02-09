@@ -33,6 +33,11 @@
   color: white;
 }
 
+.modal select option{
+  background-color: #2a3a43;
+}
+
+
 .modal textarea {
   height: 70px;
   resize: none;
